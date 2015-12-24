@@ -63,7 +63,7 @@ body {
   position: absolute;
   top:0;
   left:0;
-  background- #000;
+  background-color: #000;
   font-size: 20px;
   transition: opacity .3s linear;
   opacity: 0;
