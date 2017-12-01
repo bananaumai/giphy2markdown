@@ -4,8 +4,8 @@ Giphy to Markdown Chrome Extension
 Installing
 -----
 - This extension is not registered in Chrome web store yet.
-- Download or clone this source code.
-- If you downloaded the code, unzip the file.
+- Download as zip file or clone this source code.
+  - If you download zip file, unzip it.
 - Open (chrome://extensions/) or select the menu `Window > Extensions`.
 - Enable the developer mode at top right.
 - Click `Load unpacked extension...` and select the source code folder.
